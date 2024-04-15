@@ -102,7 +102,7 @@
     "fs-extra": "^0.30.0",
     "google-maps-react": "^1.1.2",
     "history": "^4.7.2",
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^4.0.0",
     "imports-loader": "^0.6.5",
     "ip": "^1.1.2",
     "json-loader": "^0.5.7",
